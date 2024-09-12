@@ -9,19 +9,15 @@ Hello, all. Clearly, my name is Danny Miracle and I am attempting to learn to us
 
 <b><h2>
 HOBBIES</h2></b>
-<javascript> <ol id="list">
-var Hobbies = ['Reading (always number one, I love to learn)', 'Hiking', 'Work', 'Learning New Languages', 'Detailing Cars!'];
-var listOfHobbies = [];
-var list = document.getElementById("list");
+<br><br><br>
+1. Reading (Learning will always be my favorite thing, so reading is number one.) <br>
+2. Working<br>
+3. Hiking<br>
+4. Writing<br>
+5. Meditation<br>
 
-
-fruits.forEach(function(element) {
-  listOfHobbies.push("<li>" + element + "</li>");
-});
-
-list.innerHTML = listOfHobbies.join('');
-</ol>
+<br><br><br><br><br><br>
    ![FB_IMG_1722626750400](https://github.com/user-attachments/assets/9bd09713-c599-480a-b90e-e709b6d3fa94)
-
+<br><br><br><br><br><br>
 One of my favorite websites is www.stackoverflow.com
 </html
