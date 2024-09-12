@@ -19,7 +19,7 @@ fruits.forEach(function(element) {
   listOfHobbies.push("<li>" + element + "</li>");
 });
 
-list.innerHTML = listOfFruits.join('');
+list.innerHTML = listOfHobbies.join('');
 </ol>
    ![FB_IMG_1722626750400](https://github.com/user-attachments/assets/9bd09713-c599-480a-b90e-e709b6d3fa94)
 
