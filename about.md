@@ -1,5 +1,4 @@
 <html>
-   
    <h1>
 
    <b>
@@ -10,7 +9,7 @@ Hello, all. Clearly, my name is Danny Miracle and I am attempting to learn to us
 
 <b><h2>
 HOBBIES</h2></b>
-<javascript> 
+<javascript> <ol id="list">
 var Hobbies = ['Reading (always number one, I love to learn)', 'Hiking', 'Work', 'Learning New Languages', 'Detailing Cars!'];
 var listOfHobbies = [];
 var list = document.getElementById("list");
@@ -21,8 +20,7 @@ fruits.forEach(function(element) {
 });
 
 list.innerHTML = listOfFruits.join('');
-
-
+</ol>
    ![FB_IMG_1722626750400](https://github.com/user-attachments/assets/9bd09713-c599-480a-b90e-e709b6d3fa94)
 
 One of my favorite websites is www.stackoverflow.com
