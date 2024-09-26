@@ -17,7 +17,5 @@ HOBBIES</h2></b>
 5. Meditation<br>
 
 <br><br><br><br><br><br>
-   ![FB_IMG_1722626750400](https://github.com/user-attachments/assets/9bd09713-c599-480a-b90e-e709b6d3fa94)
-<br><br><br><br><br><br>
 One of my favorite websites is www.stackoverflow.com
 </html
